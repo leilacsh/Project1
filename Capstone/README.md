@@ -39,5 +39,8 @@ In this project, FinBERT has been shown to achieve higher accuracy in financial 
 # Deployment
 The best FinBERT model has been implemented on AWS through Flask.
 
+# Google Drive Links
+For the flask and model checkpoint, please refer to [link](https://drive.google.com/drive/folders/1BND_XrqQEe2RUROB3x9XxhDbDCAY7fxI?usp=share_link).
+
 
 
